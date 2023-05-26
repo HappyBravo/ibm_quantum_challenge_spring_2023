@@ -1,7 +1,7 @@
 # IBM Quantum Challenge Spring 2023
 My solutions for IBM Quantum Challenge Spring 2023
 
-- [Questions](https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023), Qiskit's Repo
+- [Questions and Answers](https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023), Qiskit's Repo
 - [IBM Lab link](https://challenges.quantum-computing.ibm.com/spring-2023#lab-1) It may be dead after few days.
 - [FAQ / Wiki](https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023/wiki)
 ___
